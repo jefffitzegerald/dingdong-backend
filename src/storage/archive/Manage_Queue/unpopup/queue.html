@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Queue</title>
+
+    <link rel="stylesheet" href="queue.css">
+    <link rel="icon" href="./images/logo.jpeg">
+</head>
+
+<body>
+
+    <div class="navbar">
+        <nav>
+            <div class="logo">
+                <img src="./images/logo.jpeg" class="img-logo" alt="" href="#">
+            </div>
+
+            <ul class="nav-items">
+                <li>
+                    <a href="#">ABOUT</a>
+                </li>
+                <li>
+                    <a href="#">SEARCH</a>
+                </li>
+                <li>
+                    <a href="#">MEMBERSHIP</a>
+                </li>
+                <li>
+                    <a href="#">PROFILE</a>
+                </li>
+            </ul>
+
+            <div class="btn-container">
+                <button type="button" class="btn-login">
+                    LOGIN
+                </button>
+            </div>
+        </nav>
+    </div>
+
+    <div class="content-wrapper">
+
+        <div class="content-left">
+
+            <div class="search">
+                <input type="text" name="" id="" placeholder="SEARCH SONG OR INPUT LINK">
+                <select name="" id="">
+                    <option value="">Youtube</option>
+                </select>
+            </div>
+
+            <div class="songs">
+                <span></span>
+                <div class="info">
+                    <h1>The Beatles - Yellow Submarine</h1>
+                    <p>The Beatles</p>
+                    <button class="plus-btn-red"></button>
+                </div>
+            </div>
+            <div class="songs">
+                <span></span>
+                <div class="info">
+                    <h1>The Beatles - Yellow Submarine</h1>
+                    <p>The Beatles</p>
+                    <button class="plus-btn-red"></button>
+                </div>
+            </div>
+            <div class="songs">
+                <span></span>
+                <div class="info">
+                    <h1>The Beatles - Yellow Submarine</h1>
+                    <p>The Beatles</p>
+                    <button class="plus-btn-red"></button>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-right">
+            <div class="right-top">
+                <button>ADD PLAYLIST</button>
+                <select name="" id="">
+                    <option value="">SELECT TEXT CHANNEL</option>
+                </select>
+                <select name="" id="">
+                    <option value="">SELECT VOICE CHANNEL</option>
+                </select>
+            </div>
+
+            <div class="current">
+
+                <h1>Current Playing</h1>
+
+                <div class="playlist-container">
+                    <div class="item-left">
+                        <img class="playlist-img" src="./images/ibas_diiiihhh.jpg">
+                    </div>
+
+                    <span class="line"></span>
+
+                    <div class="item-middle">
+                        <p class="judul">Ambalan Kece - lil b3ng$</p>
+                    </div>
+
+                    <span class="line"></span>
+
+                    <div class="item-right">
+                        <p class="time">00.00</p>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="queue">
+
+                <h1>Queue</h1>
+
+                <div class="playlist-container">
+                    <div class="item-left">
+                        <img class="playlist-img" src="./images/ibas_diiiihhh.jpg">
+                    </div>
+
+                    <span class="line"></span>
+
+                    <div class="item-middle">
+                        <p class="judul">Bad Run - lil b3ng$</p>
+                    </div>
+
+                    <span class="line"></span>
+
+                    <div class="item-right">
+                        <p class="time">00.00</p>
+                    </div>
+
+                    <div class="delete">
+                        <button type="button" class="delete-btn" href="#"></button>
+                    </div>
+                </div>
+
+                <div class="playlist-container">
+                    <div class="item-left">
+                        <img class="playlist-img" src="./images/ibas_diiiihhh.jpg">
+                    </div>
+
+                    <span class="line"></span>
+
+                    <div class="item-middle">
+                        <p class="judul">Kukira Ku Jawara - lil dRvn$</p>
+                    </div>
+
+                    <span class="line"></span>
+
+                    <div class="item-right">
+                        <p class="time">00.00</p>
+                    </div>
+
+                    <div class="delete">
+                        <button type="button" class="delete-btn" href="#"></button>
+                    </div>
+                </div>
+
+                <div class="playlist-container">
+                    <div class="item-left">
+                        <img class="playlist-img" src="./images/ibas_diiiihhh.jpg">
+                    </div>
+
+                    <span class="line"></span>
+
+                    <div class="item-middle">
+                        <p class="judul">Title</p>
+                    </div>
+
+                    <span class="line"></span>
+
+                    <div class="item-right">
+                        <p class="time">00.00</p>
+                    </div>
+
+                    <div class="delete">
+                        <button type="button" class="delete-btn" href="#"></button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="box-player">
+        <div class="img-container">
+            <div class="image-player"></div>
+        </div>
+        <div class="playback">
+            <div class="up">
+                <img src="./images/shuffle.png" alt="" width="50px" height="50px">
+                <img src="./images/previous.png" alt="" width="100px" height="100px">
+                <input type="checkbox" name="play/pause" id="">
+                <img src="./images/next.png" alt="" width="100px" height="100px">
+                <img src="./images/loop.png" alt="" width="70px" height="70px">
+            </div>
+            <div class="bottom">
+                <span>00:00</span>
+                <div class="bar-area">
+                    <input type="range" name="progress" id="progress" value="0">
+                </div>
+                <span>03:10</span>
+            </div>
+        </div>
+
+        <div class="volume">
+            <img src="./images/sound.png" alt="">
+            <div class="volume-area">
+                <input type="range" name="volume" id="volume" value="100">
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
