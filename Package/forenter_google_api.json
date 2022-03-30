@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "forenter-company",
+  "private_key_id": "f5acf1ff2832fd2bc7d90970b12ba4a1917d87a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkRUAb5nluoJWL\nepBYpC0xInpO+iEdgfWHhGAJarkgNIxOcLQPUUikc2g7aJvPKXcQhqMJ76o0Db4d\nnX6luuKOsQaq6ft/yjyMHXNm8TRdpf80tCBylZDU2rLEbveaicN8e1DceTBUEB1D\nnRX5xiFRdriNwKeMq9AYgd+QrjWRMheVsHq6TTdn8QZ5k1fQMVxuv1FOhP5Dgc8q\n/VuaCoys1en+9QwS/AS2Pp/IZqr+e6bj53AyQSn8RFtJoghtd9mzfI4Dd4rceZqQ\nUDrbiL8XMGNYmfwXu9w5seeA2VzCijO7Vyes6aalT/UZSHbRojmNqFXTa+BGJH2o\neLqQtgPtAgMBAAECggEARZOHOcn+eNrPPEpnRQQUmBEQWM8co5Dd2843lwV676cS\nHk8iFLLK38x5w1/lTnMzmO5Ns/Gs12tSsNx6PdvQBbv5JP8BpPiVeIsoy9sx4NBk\nLYB1ldK/i0guG4EconnjMKBSeW9jBtfkbTTlj+tZRVXRiUimLrC+7QJlHLSMv7gX\n5Y2R8sOnPYG5ra6uj6rc1YjI8isUe9dyTDlvAsFg/GMrghhNm4DOcPtOO5+R+2CB\nVSqRFS7+ir3WjzMteFvifZSN9ZtDZ1Uzz5TPZaJh+aDcnIJEyodNl2IetPTD7JXA\nrmHJEqKZrwDWGc3EB5IaXTxDp6WkQBncqI9UTZQuSQKBgQDVjO2659Ly8nUajBxm\ngdym2igB6VMIfIqo8SA86WqaK3zTpuDowc4vRh0brA5008yV0eE9xyu6ub/Mu1Lj\npbPh1wps/M3MZ9qz/fpLVDK1wuLMnILzCwmFCdNSlEXVrssVbmzNBi9Wwwvn0WN3\nUnFYeBPEczS6OdSxF2oS6iO4JwKBgQDE7JTcxyftpTrH6OMMGoFg+Az8U/xQy6H3\n6dB5PEA4LLhk7VaiqgHJiviOgVVf6vOQu3GVC/YiwHniMet/M+DdKFHHzjD0tzO5\nUYg+taKpP55NcIfVc4JKNrcbusw4SRfFvn8LnClnddvmhY7OMvlzxB7vX4CnRu3n\nXQ9+0r47ywKBgQDMutVXMNVOUR/vmY/Ivos580ATxQrzweJ1YOYVP3oR38tGZmCN\nBPCU5dUWKHebjUo///y+62mDFH1K2/P1h3DS/QRjxGHQq2hC0yTYfxo2o2Yn34yz\nUUuJHghYzQm+eFr+auUoEdvkhA2v61A+nu1HcacR2ZkdSEAen2H0TEB+VQKBgAmi\nIS4jt/pSKOv6opDHAylBOTFm0mMJcyTzlTU5E1MsLOETEzfl5Sx81efyv8Bvd/bO\nlKHb8fCFRfEgzApu+UMYY9fIaHCwPaGFMYsPy6NH73COXra8bdU/k/mRS8g9GyKb\nTQ++VfAvvdArHG9N4xIct/6xx1Nnjt/Ql592o8O9AoGBAI7jMkwxTZc0A6gvaR3P\naSsPWx9Yn6GhXQIhM4ROgICX25BM85DigBVLz+kWKmAN/WdkTqg7Lcb4KUexJimn\njWWlt/ANf27TgEnj19++XOIx8QKlN6J3zwKPH4bEjxspf8M04AXNzoPdGNXvYk7P\nAXZcHhkuIAgmk9ftT4LkdNxx\n-----END PRIVATE KEY-----\n",
+  "client_email": "forenter-company@forenter-company.iam.gserviceaccount.com",
+  "client_id": "116788153924686629511",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/forenter-company%40forenter-company.iam.gserviceaccount.com"
+}
